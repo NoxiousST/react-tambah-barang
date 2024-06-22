@@ -1,4 +1,4 @@
-#[react-tambah-barang.vercel.app](https://react-tambah-barang-7291l2i57-noxioussts-projects.vercel.app/)
+# [react-tambah-barang.vercel.app](https://react-tambah-barang.vercel.app/)
 ***
 # React + Vite
 
